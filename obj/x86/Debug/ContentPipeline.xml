@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\seemslegit.png</Source>
+      <Name>Images\seemslegit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Images\seemslegit.xnb</Output>
+      <Time>2012-12-07T20:59:16.9345989-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\black.png</Source>
+      <Name>Backgrounds\black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Backgrounds\black.xnb</Output>
+      <Time>2012-12-08T00:26:51.0039309-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\starfield1.png</Source>
+      <Name>Backgrounds\starfield1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="PremultiplyAlpha">False</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Backgrounds\starfield1.xnb</Output>
+      <Time>2012-12-08T00:47:42.4125074-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\starfield2.png</Source>
+      <Name>Backgrounds\starfield2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="PremultiplyAlpha">False</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Backgrounds\starfield2.xnb</Output>
+      <Time>2012-12-08T01:16:44.2321337-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\menumusic.mp3</Source>
+      <Name>Music\menumusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Music\menumusic.xnb</Output>
+      <Extra>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Music\menumusic.wma</Extra>
+      <Time>2012-12-08T02:51:14.316444-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\fire_laser1.wav</Source>
+      <Name>SoundEffects\fire_laser1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\SoundEffects\fire_laser1.xnb</Output>
+      <Time>2012-12-08T03:22:36.9621252-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bullet.png</Source>
+      <Name>Sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\bullet.xnb</Output>
+      <Time>2012-12-08T11:29:49.3611228-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\boom.png</Source>
+      <Name>Sprites\boom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\boom.xnb</Output>
+      <Time>2012-12-08T11:29:56.3515226-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\zombie.png</Source>
+      <Name>Sprites\zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\zombie.xnb</Output>
+      <Time>2012-12-08T11:30:04.4669868-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Texas3.png</Source>
+      <Name>Sprites\Texas3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\Texas3.xnb</Output>
+      <Time>2012-12-08T14:07:47.7142536-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\titlefont.bmp</Source>
+      <Name>Fonts\titlefont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Fonts\titlefont.xnb</Output>
+      <Time>2012-12-08T14:59:57.5452697-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Texas_spriteSheet.png</Source>
+      <Name>Sprites\Texas_spriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\Texas_spriteSheet.xnb</Output>
+      <Time>2012-12-08T16:53:10.8988273-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\playerShip.png</Source>
+      <Name>Sprites\playerShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\playerShip.xnb</Output>
+      <Time>2012-12-08T17:08:37.2118093-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\kamakazi.png</Source>
+      <Name>Sprites\kamakazi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\kamakazi.xnb</Output>
+      <Time>2012-12-08T18:17:06.1028245-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\zombieShip.png</Source>
+      <Name>Sprites\zombieShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\zombieShip.xnb</Output>
+      <Time>2012-12-08T18:26:13.1081114-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\asteroid.png</Source>
+      <Name>Sprites\asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\asteroid.xnb</Output>
+      <Time>2012-12-08T20:34:42.477062-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\playershot2.png</Source>
+      <Name>Sprites\playershot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\playershot2.xnb</Output>
+      <Time>2012-12-08T19:23:51.7729357-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\paraZombie.png</Source>
+      <Name>Sprites\paraZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\paraZombie.xnb</Output>
+      <Time>2012-12-08T20:46:42.2402301-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion.png</Source>
+      <Name>Sprites\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\explosion.xnb</Output>
+      <Time>2012-12-08T20:53:53.7209094-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemyshot.png</Source>
+      <Name>Sprites\enemyshot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\enemyshot.xnb</Output>
+      <Time>2012-12-08T21:12:51.4169819-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\happy.png</Source>
+      <Name>Images\happy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Images\happy.xnb</Output>
+      <Time>2012-12-09T00:07:54.8357431-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannonzombieboom.png</Source>
+      <Name>Sprites\cannonzombieboom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Sprites\cannonzombieboom.xnb</Output>
+      <Time>2012-12-09T01:59:23.3508574-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\shadowforce.mp3</Source>
+      <Name>Music\shadowforce</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Music\shadowforce.xnb</Output>
+      <Extra>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\Music\shadowforce.wma</Extra>
+      <Time>2012-12-09T00:01:09.3375499-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Turner\Documents\Visual Studio 2010\Projects\GameJamTest\GameJamTest\GameJamTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Turner\Documents\Visual Studio 2010\Projects\GameJamTest\GameJamTest\GameJamTestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Turner\Desktop\GameJam\sadc-gamejam-test\bin\x86\Debug\GameJamTestContent\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-26T17:23:39.9141024-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
